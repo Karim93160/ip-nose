@@ -1,6 +1,6 @@
 // src/IpGeoLocator.h
 #ifndef IP_GEO_LOCATOR_H
-#define IP_GEO_GEO_LOCATOR_H
+#define IP_GEO_LOCATOR_H // <-- Cette ligne a été corrigée ici
 
 #include <string>
 #include <memory> // Pour std::unique_ptr

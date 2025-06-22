@@ -1,95 +1,93 @@
-# Bienvenue !
+# Welcome!
 
-Nous sommes ravis que tu souhaites contribuer au projet ip-nose. Que tu veuilles signaler un bug, suggérer une nouvelle fonctionnalité ou soumettre du code, toutes les contributions sont les bienvenues et appréciées.
+We're excited you want to contribute to the ip-nose project. Whether you want to report a bug, suggest a new feature, or submit code, all contributions are welcome and appreciated.
 
-Prends un moment pour lire les lignes directrices suivantes avant de soumettre ta contribution.
+Please take a moment to read the following guidelines before submitting your contribution.
 
-## Table des matières
-- [Code de Conduite](#code-de-conduite)
-- [Comment Contribuer](#comment-contribuer)
-  - [Signaler un Bug](#signaler-un-bug)
-  - [Suggérer une Fonctionnalité](#suggérer-une-fonctionnalité)
-  - [Soumettre une Pull Request](#soumettre-une-pull-request)
-- [Style de Code](#style-de-code)
+## Table of Contents
+- [Code of Conduct](#code-of-conduct)
+- [How to Contribute](#how-to-contribute)
+  - [Reporting a Bug](#reporting-a-bug)
+  - [Suggesting a Feature](#suggesting-a-feature)
+  - [Submitting a Pull Request](#submitting-a-pull-request)
+- [Code Style](#code-style)
 - [Tests](#tests)
-- [Licence](#licence)
+- [License](#license)
 - [Contact](#contact)
 
-## Code de Conduite
+## Code of Conduct
 
-Nous nous engageons à faire de la participation à ce projet une expérience sans harcèlement pour tout le monde. En participant, tu es censé respecter le [Code de Conduite](CODE_OF_CONDUCT.md). Si tu n'as pas encore créé ce fichier, tu peux t'inspirer du [Contributor Covenant](https://www.contributor-covenant.org/).
+We are committed to making participation in this project a harassment-free experience for everyone. By participating, you are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). If you haven't created this file yet, you can use the [Contributor Covenant](https://www.contributor-covenant.org/) as inspiration.
 
-## Comment Contribuer
+## How to Contribute
 
-### Signaler un Bug
+### Reporting a Bug
 
-Si tu trouves un bug dans ip-nose, vérifie d'abord si le bug a déjà été signalé dans les [Issues](https://github.com/Karim93160/ip-nose/issues) du dépôt.
+If you find a bug in ip-nose, first check if the bug has already been reported in the repository's [Issues](https://github.com/Karim93160/ip-nose/issues).
 
-Si ce n'est pas le cas, ouvre une nouvelle issue et inclus autant de détails que possible :
-- Une description claire et concise du bug
-- Les étapes pour reproduire le comportement inattendu
-- Le comportement attendu
-- Les versions de ip-nose et de ton environnement (Python, OS, etc.) si pertinent
-- Toute trace d'erreur ou message d'erreur
+If not, open a new issue and include as many details as possible:
+- A clear and concise description of the bug
+- Steps to reproduce the unexpected behavior
+- Expected behavior
+- ip-nose version and your environment details (Python version, OS, etc.) if relevant
+- Any error traces or error messages
 
-### Suggérer une Fonctionnalité
+### Suggesting a Feature
 
-Tu as une idée pour améliorer ip-nose ? Nous aimerions l'entendre ! Ouvre une nouvelle Issue et décris ta suggestion :
-- Une description claire et concise de la fonctionnalité
-- Pourquoi cette fonctionnalité serait utile pour le projet et ses utilisateurs
-- Des exemples d'utilisation si possible
+Have an idea to improve ip-nose? We'd love to hear it! Open a new Issue and describe your suggestion:
+- A clear and concise description of the feature
+- Why this feature would be useful for the project and its users
+- Usage examples if possible
 
-### Soumettre une Pull Request
+### Submitting a Pull Request
 
-1. Fork le dépôt ip-nose sur ton compte GitHub depuis [https://github.com/Karim93160/ip-nose](https://github.com/Karim93160/ip-nose)
-2. Clone ton fork localement :
+1. Fork the ip-nose repository on your GitHub account from [https://github.com/Karim93160/ip-nose](https://github.com/Karim93160/ip-nose)
+2. Clone your fork locally:
    ```bash
-   git clone https://github.com/TaNomUtilisateur/ip-nose.git
+   git clone https://github.com/YourUsername/ip-nose.git
    cd ip-nose
    ```
-3. Crée une nouvelle branche pour ta fonctionnalité ou ton correctif :
+3. Create a new branch for your feature or fix:
    ```bash
-   git checkout -b ma-super-fonctionnalite
+   git checkout -b my-awesome-feature
    ```
-   (Choisis un nom de branche significatif, par exemple `fix/bug-de-calcul-ip` ou `feat/support-ipv6`)
-4. Implémente tes modifications
-5. Teste tes modifications pour t'assurer qu'elles fonctionnent comme prévu et qu'elles n'introduisent pas de régressions. Vois la section [Tests](#tests) pour plus de détails
-6. Commit tes modifications avec un message de commit clair et descriptif. Utilise des préfixes comme `feat:`, `fix:`, `docs:`, `style:`, `refactor:`, `test:`, `chore:` selon le type de modification :
+   (Choose a meaningful branch name, e.g., `fix/ip-calculation-bug` or `feat/ipv6-support`)
+4. Implement your changes
+5. Test your changes to ensure they work as expected and don't introduce regressions. See the [Tests](#tests) section for more details
+6. Commit your changes with a clear, descriptive commit message. Use prefixes like `feat:`, `fix:`, `docs:`, `style:`, `refactor:`, `test:`, `chore:` according to the change type:
    ```bash
-   git commit -m "feat: ajoute le support pour les adresses IPv6"
+   git commit -m "feat: add support for IPv6 addresses"
    ```
-7. Push ta branche vers ton fork sur GitHub :
+7. Push your branch to your fork on GitHub:
    ```bash
-   git push origin ma-super-fonctionnalite
+   git push origin my-awesome-feature
    ```
-8. Ouvre une Pull Request (PR) depuis ta branche sur GitHub vers la branche main du dépôt original `Karim93160/ip-nose`
-   - Décris clairement les modifications que tu as apportées
-   - Référence les issues pertinentes que ta PR résout (par exemple, "Closes #123")
-   - Sois prêt à répondre aux commentaires et à apporter des ajustements si nécessaire
+8. Open a Pull Request (PR) from your branch on GitHub to the main branch of the original repository `Karim93160/ip-nose`
+   - Clearly describe the changes you've made
+   - Reference any relevant issues your PR resolves (e.g., "Closes #123")
+   - Be prepared to respond to feedback and make adjustments if needed
 
-## Style de Code
+## Code Style
 
-- Veuillez suivre le style de code [PEP 8](https://www.python.org/dev/peps/pep-0008/) pour le code Python
-- Utilise des docstrings pour documenter tes fonctions, classes et modules
-- Préfère des noms de variables et de fonctions clairs et explicites
+- Please follow [PEP 8](https://www.python.org/dev/peps/pep-0008/) style guidelines for Python code
+- Use docstrings to document your functions, classes, and modules
+- Prefer clear and explicit names for variables and functions
 
 ## Tests
 
-Nous encourageons l'écriture de tests pour toute nouvelle fonctionnalité ou correction de bug. Si le projet utilise un framework de test (par exemple, pytest), familiarise-toi avec lui.
+We encourage writing tests for all new features or bug fixes. If the project uses a testing framework (e.g., pytest), please familiarize yourself with it.
 
-- Exécute les tests existants avant de soumettre ta PR pour t'assurer que tes modifications n'ont rien cassé :
+- Run existing tests before submitting your PR to ensure your changes don't break anything:
   ```bash
-  # Exemple si pytest est utilisé
+  # Example if using pytest
   pytest
   ```
-- Ajoute des tests pour ta nouvelle fonctionnalité ou pour reproduire le bug que tu corriges
+- Add tests for your new feature or to reproduce the bug you're fixing
 
-## Licence
+## License
 
-En contribuant à ip-nose, tu acceptes que tes contributions soient sous la même licence que le projet lui-même. Veuillez consulter le fichier [LICENSE](LICENSE) pour plus de détails.
+By contributing to ip-nose, you agree that your contributions will be licensed under the same license as the project itself. Please see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-Pour toute question ou information supplémentaire concernant les contributions, tu peux me contacter à l'adresse suivante : [karim9316077185@gmail.com](mailto:karim9316077185@gmail.com).
-
----
+For any questions or additional information about contributions, you can contact me at: [karim9316077185@gmail.com](mailto:karim9316077185@gmail.com).

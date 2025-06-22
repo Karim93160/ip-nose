@@ -93,7 +93,3 @@ En contribuant à ip-nose, tu acceptes que tes contributions soient sous la mêm
 Pour toute question ou information supplémentaire concernant les contributions, tu peux me contacter à l'adresse suivante : [karim9316077185@gmail.com](mailto:karim9316077185@gmail.com).
 
 ---
-
-N'oublie pas de créer un fichier `CODE_OF_CONDUCT.md` à la racine de ton dépôt, car il est référencé dans ce CONTRIBUTING.md. Tu peux trouver des exemples en ligne, comme celui du [Contributor Covenant](https://www.contributor-covenant.org/).
-
-Bonne chance avec ton projet ip-nose !

@@ -85,6 +85,8 @@ ip-nose
 
 **Contributions are welcome! If you'd like to improve ip-nose, fix bugs, or add new features, please check out our Contribution Guide.**
 
+[Contribution Guide](https://github.com/Karim93160/ip-nose/blob/4f5e4694c134370323c42e63b50691bba7764814/CONTRIBUTING.md)
+
 [![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor-GitHub-brightgreen.svg)](https://github.com/sponsors/karim93160)
 [![Buy me a coffee](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-FFDD00.svg)](https://www.buymeacoffee.com/karim93160)
 [![Support me on Ko-fi](https://img.shields.io/badge/Donate-Ko--fi-F16061.svg)](https://ko-fi.com/karim93160)

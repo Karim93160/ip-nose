@@ -1,7 +1,9 @@
 ![GitHub Gif](https://github.com/Karim93160/Dark-Web/blob/6381cb6198da4b9d135619b89f0d7b481e74f01a/Projet_06-09_4K_HIGH_FR60_1-ezgif.com-video-to-gif-converter.gif)
 
+---
 [🇫🇷 Français](https://github.com/karim93160/ip-nose/blob/main/README.md) | [🇬🇧 English](https://github.com/karim93160/ip-nose/blob/main/README_EN.md) | [🇪🇸 Español](https://github.com/karim93160/ip-nose/blob/main/README_ES.md)
 ---
+
 # ip-nose: IP Geolocation Tool
 
 [![GitHub stars](https://img.shields.io/github/stars/Karim93160/ip-nose?style=social)](https://github.com/Karim93160/ip-nose)

@@ -2,9 +2,9 @@
 
 ---
 [🇫🇷 Français](https://github.com/karim93160/ip-nose/blob/main/README.md) | [🇬🇧 English](https://github.com/karim93160/ip-nose/blob/main/README_EN.md) | [🇪🇸 Español](https://github.com/karim93160/ip-nose/blob/main/README_ES.md)
----
 
-# ip-nose: IP Geolocation Tool
+---
+# ip-nose: Outil de Géolocalisation IP
 
 [![GitHub stars](https://img.shields.io/github/stars/Karim93160/ip-nose?style=social)](https://github.com/Karim93160/ip-nose)
 [![GitHub forks](https://img.shields.io/github/forks/Karim93160/ip-nose?style=social)](https://github.com/Karim93160/ip-nose)
